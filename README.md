@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Heart Health App
 
 Heart Health is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js) application integrated with AI/ML capabilities to predict heart disease risk and provide personalized health recommendations.
@@ -101,4 +101,3 @@ To set up the project locally, follow these steps:
 Now you're good to go! You can now access the Heart Health App.
 =======
 # HeartHealth
->>>>>>> be5abf6e64574d1c3351f82f956c6df24a15eede
