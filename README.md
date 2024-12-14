@@ -99,5 +99,3 @@ To set up the project locally, follow these steps:
      ```
 
 Now you're good to go! You can now access the Heart Health App.
-=======
-# HeartHealth
