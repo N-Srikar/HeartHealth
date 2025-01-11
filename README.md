@@ -10,8 +10,7 @@ Utilizes machine learning algorithms to assess the risk of heart disease based o
 
 ### 2. Dashboard
 A user-friendly interface to view health statistics, predictions, and recommendations at a glance.
-![image](https://github.com/user-attachments/assets/a1b539b0-4ade-4d5b-9c5b-e9a84d3c5c4f)
-![image](https://github.com/user-attachments/assets/68ef18a5-3116-45f6-a2b7-3cb7b954cd87)
+![image](https://github.com/user-attachments/assets/17064e17-8698-49ab-b19b-c3178c295941)
 
 
 
